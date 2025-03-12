@@ -6,23 +6,24 @@ body {
     color: black;
 }
 
-#text-background {
-    height: 75px;
-    width: 200px;
-    border: 5px solid white; 
+
+    
+
+#div-width {
+    margin-top: 100px;
+    border: 5px solid black; 
     border-radius: 10px;
     background-color: white;
     display: block;
     margin-right: auto;
     margin-left: auto;
-}
-#div-width {
-    max-width: 100vh;
+    padding-top: -100px;
 }
 
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
+    
 }
 
 h2 {
