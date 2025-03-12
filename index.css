@@ -17,7 +17,7 @@ body {
     margin-left: auto;
 }
 #div-width {
-    max-width: 400px;
+    max-width: 100vh;
 }
 
 h1 {
